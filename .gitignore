@@ -1,0 +1,6 @@
+*.txt
+*.vec
+.project
+.pydevproject
+.settings/*
+*.pyc
